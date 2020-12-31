@@ -3,56 +3,56 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "name": "alexa-hosted-s3-example-skill",
-          "summary": "Sample Short Description",
-          "description": "Sample Full Description",
+          "name": "Jewish Blessing",
+          "summary": "Jewish Blessings",
+          "description": "Jewish Blessings",
           "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
+            "Alexa open Jewish Blessing",
+            "Jewish blessing",
             "help"
           ],
           "keywords": []
         },
         "en-GB": {
-          "name": "alexa-hosted-s3-example-skill",
-          "summary": "Sample Short Description",
-          "description": "Sample Full Description",
+          "name": "Jewish Blessing",
+          "summary": "Jewish Blessing",
+          "description": "Jewish Blessing",
           "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
+            "Alexa open Jewish Blessing",
+            "Jewish blessing",
             "help"
           ],
           "keywords": []
         },
         "en-CA": {
-          "name": "alexa-hosted-s3-example-skill",
-          "summary": "Sample Short Description",
-          "description": "Sample Full Description",
+          "name": "Jewish Blessing",
+          "summary": "Jewish Blessing",
+          "description": "Jewish Blessing",
           "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
+            "Alexa open Jewish Blessing",
+            "Jewish blessing",
             "help"
           ],
           "keywords": []
         },
         "en-IN": {
-          "name": "alexa-hosted-s3-example-skill",
-          "summary": "Sample Short Description",
-          "description": "Sample Full Description",
+          "name": "Jewish Blessing",
+          "summary": "Jewish Blessing",
+          "description": "Jewish Blessing",
           "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
+            "Alexa open Jewish Blessing",
+            "Jewish blessing",
             "help"
           ],
           "keywords": []
         },
         "en-AU": {
-          "name": "alexa-hosted-s3-example-skill",
-          "summary": "Sample Short Description",
-          "description": "Sample Full Description",
+          "name": "Jewish Blessing",
+          "summary": "Jewish Blessing",
+          "description": "Jewish Blessing",
           "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
+            "Alexa open Jewish Blessing",
+            "Jewish blessing",
             "help"
           ],
           "keywords": []
